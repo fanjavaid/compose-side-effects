@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose Side Effects</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="bali_desc">
+        Bali (juga dikenal sebagai Kepulauan Bali, Bali: ᬩᬮᬶ) adalah sebuah wilayah provinsi yang terletak di Indonesia. Ibu kotanya adalah Denpasar. Provinsi Bali terletak di bagian barat Kepulauan Nusa Tenggara.
+        \n\nDi awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi, yakni Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur .
+    </string>
+</resources>
